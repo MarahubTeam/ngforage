@@ -1,5 +1,5 @@
 {
-  "name": "@mrh/ngforage",
+  "name": "@marahub/ngforage",
   "version": "19.0.0",
   "peerDependencies": {
     "localforage": "^1.10.0"
